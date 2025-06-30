@@ -53,7 +53,7 @@ import GAuth from 'vue-google-oauth2'
 //   redirect_uri: 'http://localhost:8080' // <--- เพิ่ม URL ที่จะให้ Google Redirect กลับมา
 // }
 
-Vue.use(GAuth, gauthOption)
+// Vue.use(GAuth, gauthOption)
 // --- สิ้นสุดส่วนสำคัญ ---
     
 
